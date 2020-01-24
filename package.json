@@ -1,0 +1,13 @@
+{
+
+"name": "coveralltest",
+"version": "1.0.0",
+"description": "Testing Coveralls",
+"author" : "Ernest Mamba",
+"dependencies" : {
+	
+	},
+"devDependencies" : {
+	"coveralls" : "^3.0.0"
+}
+}
